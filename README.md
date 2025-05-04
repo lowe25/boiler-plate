@@ -25,3 +25,11 @@ To use the boilerplate
 
 To Build for production 
 1. npm run build
+
+If your planning to upload to github pages
+1. Go to vite.config.ts 
+2. Uncomment line 12 
+3. Put your repository name between the "/TEST-REPO/"
+4. Push your code
+5. Then go to your repository settings go to pages 
+6. And select branch main - and select the folder name /docs 
