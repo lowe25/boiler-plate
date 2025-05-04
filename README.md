@@ -18,6 +18,10 @@ NOTE THIS IS FOR MY PERSONAL PROJECTS ONLY
 
 ## 📦 Installation
 MUST HAVE node version of 20.14.0
+To use the boilerplate
 1. git clone the repo
 2. npm install
 3. npm run dev
+
+To Build for production 
+1. npm run build
